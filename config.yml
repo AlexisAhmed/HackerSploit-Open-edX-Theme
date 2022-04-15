@@ -1,0 +1,17 @@
+INDIGO_WELCOME_MESSAGE: "HackerSploit | Free Cybersecurity Training For Everyone"
+INDIGO_PRIMARY_COLOR: "#3b85ff" # cool blue
+
+# Footer links are dictionaries with a "title" and "url"
+# To remove all links, write:
+# INDIGO_FOOTER_NAV_LINKS: []
+# INDIGO_FOOTER_LEGAL_LINKS: []
+INDIGO_FOOTER_NAV_LINKS:
+  - title: "About"
+    url: "/about"
+  - title: "Contact"
+    url: "/contact"
+INDIGO_FOOTER_LEGAL_LINKS:
+    - title: "Terms of service"
+      url: "/tos"
+    - title: "HackerSploit | Free Cybersecurity Training"
+      url: "https://community.hackersploit.org"
